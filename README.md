@@ -1,7 +1,7 @@
 # AYUD-05-AXI-RGB
 En esta ayudantía revisaremos como configurar un LED RGB utilizando protocolo AXI y visualizar su funcionamiento mediante ILA.
 
-1. Previo a nuestra ayudantía debes revisar este [video]([https://youtu.be/KSbtyjlAkPU](https://www.youtube.com/watch?v=6MO-9q7fUwE&list=PLACEUah7BCQvPCO8X1JKmvREXUQkfqjQA&index=7)) y ejecutarlo en tu casa.
+1. Previo a nuestra ayudantía debes revisar este [video]([https://youtu.be/KSbtyjlAkPU](https://www.youtube.com/watch?v=6MO-9q7fUwE&list=PLACEUah7BCQvPCO8X1JKmvREXUQkfqjQA&index=7) y ejecutarlo en tu casa.
 
 2. Los documentos asociados a la ejecución de esta ayudantía son:
     * [AYUD01-Guia Ejercicio](https://github.com/IEE2463-SEP/AYUD05-AXI-RGB/blob/main/AYUD05_AXI_RGB.pdf):  Guía de ejercicios asociado a la ayudantía. 
